@@ -17,6 +17,7 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Demo
+https://user-images.githubusercontent.com/91833883/164995124-a66548bb-733f-430a-8588-43024caaa591.mp4
 
 ## Created By
 Cassidy Alex
